@@ -7,6 +7,7 @@ Definition Dash คือเว็บแอปพลิเคชัน Vocabular
 
 GitHub: https://github.com/LUNEi3/definition-dash<br />
 Deployment Link: https://definition-dash-liart.vercel.app/
+Video Manual: [`06_Deployment_Review/userManual.mov`](06_Deployment_Review/userManual.mov)
 
 ## Current Status (MVP)
 โปรเจกต์นี้อยู่ในระยะ MVP (Minimum Viable Product) โดยเน้นฟังก์ชันหลักคือการทำแบบทดสอบและการแสดงผลคะแนน
