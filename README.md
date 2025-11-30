@@ -6,7 +6,7 @@ Definition Dash คือเว็บแอปพลิเคชัน Vocabular
 **ไฟล์ใน Folder [`/04_Implementation/definition-dash`](04_Implementation/definition-dash) เป็น version เก่า แนะนำให้ไปดูตามลิงค์ด้านล่างนี้**
 
 GitHub: https://github.com/LUNEi3/definition-dash<br />
-Deployment Link: https://definition-dash-liart.vercel.app/
+Deployment Link: https://definition-dash-liart.vercel.app/ <br />
 Video Manual: [`06_Deployment_Review/userManual.mov`](06_Deployment_Review/userManual.mov)
 
 ## Current Status (MVP)
